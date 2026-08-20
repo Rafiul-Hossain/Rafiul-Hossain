@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=220&section=header&text=Rafiul%20Hossain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20NestJS%20%C2%B7%20Node.js%20%C2%B7%20TypeScript&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2E6FBE&height=230&section=header&text=Rafiul%20Hossain&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20NestJS%20%C2%B7%20Node.js%20%C2%B7%20TypeScript&descAlignY=58&descSize=20&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F3864&center=true&vCenter=true&random=false&width=650&height=50&lines=Building+scalable+backend+systems+%F0%9F%9A%80;NestJS+%7C+Node.js+%7C+TypeScript;Security-first+development+%F0%9F%94%92;End-to-end+deployment+%26+DevOps+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=50&lines=Building+scalable+backend+systems+%F0%9F%9A%80;NestJS+%7C+Node.js+%7C+TypeScript;Security-first+development+%F0%9F%94%92;End-to-end+deployment+%26+DevOps+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/rafiul-hossain-rishad" target="_blank">
@@ -22,7 +22,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
 ## 👨‍💻 About Me
 
@@ -42,7 +42,7 @@ languages: IELTS Academic 6.5 — no band below 6
 - ⚙️ Own the full pipeline — **Docker → CI/CD → AWS/Linux VPS**
 - 📫 Always open to interesting backend & DevOps conversations
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -52,19 +52,27 @@ languages: IELTS Academic 6.5 — no band below 6
 <br/>
 <img src="https://skillicons.dev/icons?i=js,ts,php,python,c" />
 
+<br/>
+
 **Backend & Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,vue,tailwind" />
 
+<br/>
+
 **Databases & Data**
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,prisma" />
+
+<br/>
 
 **DevOps & Cloud**
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux,nginx,postman" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -74,7 +82,7 @@ languages: IELTS Academic 6.5 — no band below 6
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -140,7 +148,7 @@ Vehicle number plate detection system built as final-year thesis, applying image
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<br/>
 
 ## 🎓 Training & Certifications
 
@@ -155,7 +163,7 @@ Vehicle number plate detection system built as final-year thesis, applying image
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<br/>
 
 ## 📊 GitHub Analytics
 
@@ -165,22 +173,20 @@ Vehicle number plate detection system built as final-year thesis, applying image
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafiul-Hossain&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Rafiul-Hossain&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiul-Hossain&hide_border=true&theme=tokyo-night" alt="Activity Graph" width="95%"/>
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rafiul-Hossain&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2E6FBE&height=150&section=footer" width="100%"/>
 
 **📧 [rafiulhossain4393@gmail.com](mailto:rafiulhossain4393@gmail.com)** &nbsp;|&nbsp; **📍 Mirpur, Dhaka, Bangladesh** &nbsp;|&nbsp; **🔗 [LinkedIn](https://www.linkedin.com/in/rafiul-hossain-rishad)**
 
