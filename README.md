@@ -1,108 +1,148 @@
-<h1 align="center">Hi 👋, I'm Rafiul Hossain</h1>
-<h3 align="center">Full-Stack Software Engineer | Backend-Focused (Node.js, NestJS, TypeScript)</h3>
+<div align="center">
 
-<p align="center">
+# Hi 👋, I'm Rafiul Hossain
+
+### Full-Stack Software Engineer | Backend-Focused (Node.js · NestJS · TypeScript) | Security-Minded
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;NestJS+%7C+Node.js+%7C+TypeScript;Security-first+development;End-to-end+deployment+%26+DevOps" alt="Typing SVG" />
+
+<p>
   <a href="https://www.linkedin.com/in/rafiul-hossain-rishad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:rafiulhossain4393@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Rafiul-Hossain" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
 
----
-
-### 🚀 About Me
-
-- 🔭 Currently working as a **Backend Developer** at **ScaleUp Ads Agency** (Sep 2025 – Present), building scalable backend systems with **Node.js, NestJS, MongoDB, and Redis**
-- 🛡️ Former **Junior Pentester** at Byte Capsule — hands-on web application security testing (XSS, RCE, LFI, IDOR, CSRF)
-- 🎓 B.Sc. in Computer Science & Engineering (Software Engineering), Bangladesh University of Business and Technology (BUBT) — CGPA 3.30/4.00
-- 🧠 Final year thesis: **Number Plate Detection** using Python & Machine Learning
-- 🌱 Full-stack across the board — from backend APIs to frontend interfaces (React.js, Vue.js)
-- ⚙️ Comfortable owning **end-to-end deployment** — Dockerized infrastructure, CI/CD pipelines, and AWS/Linux VPS environments
-- 🔒 Security-first mindset in everything I build, grounded in real-world penetration testing experience
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+- 🔭 Currently working as a **Backend Developer** at **ScaleUp Ads Agency** (Sep 2025 – Present), building scalable systems with **Node.js, NestJS, MongoDB & Redis**
+- 🛡️ Former **Junior Pentester** at Byte Capsule — hands-on web application security testing (XSS, RCE, LFI, IDOR, CSRF); earned a Letter of Recommendation
+- 🎓 B.Sc. in Computer Science & Engineering (Software Engineering), **BUBT** — CGPA 3.30/4.00
+- 🧠 Final-year thesis: **Number Plate Detection** using Python & Machine Learning
+- 🌐 Full-stack across the board — backend APIs to frontend interfaces (React.js, Vue.js)
+- ⚙️ Own the full pipeline — **Dockerized infrastructure, CI/CD, and AWS/Linux VPS deployments**
+- 🔐 Security-first mindset in everything I build, grounded in real penetration testing experience
+- 🗣️ IELTS Academic: **6.5** overall (no band below 6)
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p><img src="https://skillicons.dev/icons?i=js,ts,php,python,c" /></p>
 
 **Backend & Frontend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<p><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,vue,tailwind" /></p>
 
 **Databases & Data**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+<p><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,prisma" /></p>
 
 **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+<p><img src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux,nginx,postman" /></p>
 
 **Auth & Security**
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-`RBAC` `XSS` `RCE` `LFI` `IDOR` `CSRF` `Input Validation`
+`JWT` `RBAC` `XSS` `RCE` `LFI` `IDOR` `CSRF` `Input Validation`
+
+**Core Skills:** System Design · Clean Architecture · Performance Optimization
 
 ---
 
-### 📌 Featured Projects
+## 🚀 Featured Projects
 
-#### 🎵 [Beatboks — Music Platform Backend](https://github.com/Rafiul-Hossain/larsfalck-backend)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 [Beatboks — Music Platform Backend](https://github.com/Rafiul-Hossain/larsfalck-backend)
 `NestJS` `MongoDB` `Redis` `BullMQ` `AWS` `Docker`
-Scalable NestJS backend for a Spotify-like music platform serving **10,000+ users**. Built an async media-processing pipeline with Redis and BullMQ, cutting bulk upload time by **~85%** and reducing DB writes by **~95%**. Containerized with Docker and deployed via GitHub Actions CI/CD.
-🔗 [Live](https://beatboksmusic.com/)
 
-#### 🔧 [Boiler Booking Platform](https://github.com/Rafiul-Hossain/arronwh_backend)
+Scalable NestJS backend for a Spotify-like music platform serving **10,000+ users**. Built an async media-processing pipeline with Redis & BullMQ — cut bulk upload time by **~85%** and DB writes by **~95%**. Containerized with Docker, deployed via GitHub Actions CI/CD.
+
+🔗 [Live](https://beatboksmusic.com/) · [GitHub](https://github.com/Rafiul-Hossain/larsfalck-backend)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 [Boiler Booking Platform](https://github.com/Rafiul-Hossain/arronwh_backend)
 `NestJS` `MongoDB` `Stripe` `Twilio` `AI Chatbot` `Swagger`
-Modular NestJS backend (service-oriented architecture) for booking, quotation management, and role-based workflows. Integrated Stripe payments, automated Twilio voice calls, and collaborated on AI chatbot integration via REST APIs and webhooks.
-🔗 [Live](https://testwebsite.yoloheat.com/)
 
-#### 🚗 [RideToHealth — Real-Time Ride Booking](https://github.com/Rafiul-Hossain/Ride-To-Health-Backend)
+Modular NestJS backend (service-oriented architecture) for booking, quotations, and role-based workflows. Integrated Stripe payments, automated Twilio voice calls, and collaborated on AI chatbot integration via REST APIs & webhooks.
+
+🔗 [Live](https://testwebsite.yoloheat.com/) · [GitHub](https://github.com/Rafiul-Hossain/arronwh_backend)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 [RideToHealth — Real-Time Ride Booking](https://github.com/Rafiul-Hossain/Ride-To-Health-Backend)
 `Node.js` `Express.js` `Socket.IO` `Stripe Connect`
-REST APIs supporting the complete ride lifecycle — booking, driver matching, trip tracking, and RBAC. Real-time GPS tracking and in-app messaging via Socket.IO, with Stripe Connect for automated fare collection and driver payouts.
-🔗 [Live on Play Store](https://play.google.com/store/apps/details?id=com.rideztransportation.rideztohealth)
 
-#### 🚙 [Number Plate Detection (B.Sc. Thesis)](https://github.com/Rafiul-Hossain/Number-Plate-Detection-Thesis-Using-Python)
-`Python` `Machine Learning`
+REST APIs supporting the complete ride lifecycle — booking, driver matching, trip tracking, RBAC. Real-time GPS tracking & in-app messaging via Socket.IO, with Stripe Connect for automated fare collection and driver payouts.
+
+🔗 [Play Store](https://play.google.com/store/apps/details?id=com.rideztransportation.rideztohealth) · [GitHub](https://github.com/Rafiul-Hossain/Ride-To-Health-Backend)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚙 [Number Plate Detection](https://github.com/Rafiul-Hossain/Number-Plate-Detection-Thesis-Using-Python)
+`Python` `Machine Learning` · B.Sc. Thesis
+
 Vehicle number plate detection system built as final-year thesis project, applying image processing and machine learning techniques for automated recognition.
-📄 [Report](https://drive.google.com/file/d/1XNlKJV2ulEjyo-uwTHHzw2nBoQuytuZs/view?usp=sharing)
+
+📄 [Report](https://drive.google.com/file/d/1XNlKJV2ulEjyo-uwTHHzw2nBoQuytuZs/view?usp=sharing) · [GitHub](https://github.com/Rafiul-Hossain/Number-Plate-Detection-Thesis-Using-Python)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎓 Training & Certifications
-- Full Stack Web Dev (PHP, Laravel, Vue.js) — Ostad
-- Mern-Stack Dev (Node.js, Express, TS) — Udemy
-- Ethical Hacking / Web App Testing — Byte Capsule (7 months, LOR earned)
-- Social Media Security — Cyber Force
+## 🎓 Training & Certifications
+
+| Certification | Provider |
+|---|---|
+| Full Stack Web Dev (PHP, Laravel, Vue.js) | Ostad |
+| Mern-Stack Dev (Node.js, Express, TS) | Udemy |
+| Ethical Hacking / Web App Testing *(7mo, LOR earned)* | Byte Capsule |
+| Social Media Security | Cyber Force |
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafiul-Hossain&show_icons=true&theme=default&hide_border=true" alt="Rafiul's GitHub Stats" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafiul-Hossain&hide_border=true" alt="Rafiul's GitHub Streak" />
-</p>
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rafiul-Hossain&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiul-Hossain&layout=compact&hide_border=true&theme=default" />
+</div>
 
-<p align="center">
-  📫 Reach me at <a href="mailto:rafiulhossain4393@gmail.com">rafiulhossain4393@gmail.com</a> | 📍 Mirpur, Dhaka, Bangladesh
-</p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafiul-Hossain&hide_border=true&theme=default" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiul-Hossain&hide_border=true&theme=react-dark" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+📧 [rafiulhossain4393@gmail.com](mailto:rafiulhossain4393@gmail.com) &nbsp;|&nbsp; 📍 Mirpur, Dhaka, Bangladesh &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/rafiul-hossain-rishad)
+
+<img src="https://komarev.com/ghpvc/?username=Rafiul-Hossain&label=Profile%20Views&color=1f3864&style=flat" alt="Profile Views" />
+
+</div>
